@@ -4,26 +4,94 @@ PRODUCT_COPY_FILES += \
     vendor/themes/fonts/fonts_customization.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/fonts_customization.xml
 
 PRODUCT_PACKAGES += \
+    FontAllerOverlay \
+    FontArialOverlay \
+    FontBRCobaneOverlay \
+    FontBRFirmaOverlay \
+    FontCalibriOverlay \
+    FontChirpOverlay \
+    FontCirceOverlay \
+    FontCoconNextOverlay \
+    FontCoreSansGOverlay \
+    FontCyberPunkOverlay \
+    FontDynaOverlay \
+    FontEuclidRoundOverlay \
+    FontFacundoOverlay \
+    FontFluidOverlay \
+    FontFuturaOverlay \
     FontGoogleSansOverlay \
+    FontGintoOverlay \
+    FontGothicOverlay \
+    FontHallsAndPartnersOverlay \
+    FontHelveticaOverlay \
     FontInterOverlay \
+    FontJosefinSansOverlay \
+    FontJostOverlay \
+    FontKometaOverlay \
     FontLinotteSourceOverlay \
+    FontMadeEvoOverlay \
+    FontMadeforOverlay \
+    FontMilanproOverlay \
+    FontMiSansOverlay \
+    FontModerneSansOverlay \
+    FontMoonOverlay \
+    FontMyriadOverlay \
     FontManropeOverlay \
+    FontNimbusOverlay \
+    FontNothingOverlay \
     FontOnePlusSansOverlay \
     FontOneplusSlateSourceOverlay \
+    FontOppoSansOverlay \
+    FontOPSlateOverlay \
+    FontProximaNovaOverlay \
+    FontQanelasOverlay \
+    FontQuicksandOverlay \
+    FontRadioCanadaOverlay \
+    FontSanofiSansOverlay \
+    FontSegoeOverlay \
+    FontSequelSansOverlay \
+    FontSFProOverlay \
+    FontSpaceGroteskOverlay \
+    FontTrebuchetOverlay \
+    FontTsanjerJinkaiOverlay \
+    FontUncutSansOverlay \
+    FontWorkSansOverlay \
     FontCustomOverlay
 
 PRODUCT_PACKAGES += \
+    Aller.ttf \
+    Arial.ttf \
     ArbutusSlab-Regular.ttf \
     Arvo-Regular.ttf \
     Arvo-Italic.ttf \
     Arvo-Bold.ttf \
     Arvo-BoldItalic.ttf \
+    BRCobane.ttf \
+    BRFirma.ttf \
     Barlow-Bold.ttf \
     Barlow-Medium.ttf \
     BigShouldersText-Bold.ttf  \
     BigShouldersText-ExtraBold.ttf \
+    Calibri.ttf \
+    Chirp.ttf \
+    Circe.ttf \
+    CoconNext.ttf \
+    CoreSansG.ttf \
+    CyberPunk.ttf \
+    Dyna.ttf \
+    Euclid.ttf \
+    Facunda.ttf \
+    Fluid.ttf \
+    Futura.ttf \
     Fraunces-Regular.ttf \
     Fraunces-SemiBold.ttf \
+    Ginto.ttf \
+    Gothic.ttf \
+    HallsAndPartners.ttf \
+    Helvetica.ttf \
+    JosefinSans.ttf \
+    Jost.ttf \
+    Kometa.ttf \
     Karla-Regular.ttf \
     Lato-Regular.ttf \
     Lato-Italic.ttf \
@@ -32,12 +100,37 @@ PRODUCT_PACKAGES += \
     Lato-Bold.ttf \
     Lato-BoldItalic.ttf \
     Lustria-Regular.ttf \
+    MadeEvo.ttf \
+    Manrope.ttf \
+    Madefor.ttf \
+    MilanPro.ttf \
+    MiSans.ttf \
+    ModerneSans.ttf \
+    Moon.ttf \
+    Myriad.ttf \
+    Nimbus.ttf \
+    Nothing.ttf \
+    OppoSans.ttf \
+    OPSlate.ttf \
+    ProximaNova.ttf \
+    Qanelas.ttf \
+    QuickSand.ttf \
+    RadioCanada.ttf \
     Rubik-Regular.ttf \
     Rubik-Italic.ttf \
     Rubik-Medium.ttf \
     Rubik-MediumItalic.ttf \
     Rubik-Bold.ttf \
     Rubik-BoldItalic.ttf \
+    SanofiSans.ttf \
+    Segoe.ttf \
+    SequelSans.ttf \
+    SFPro.ttf \
+    SpaceGrotesk.ttf \
+    Trebuchet.ttf \
+    TsanjerJinkai.ttf \
+    UncutSans.ttf \
+    WorkSans.ttf \
     ZillaSlab-Medium.ttf \
     ZillaSlab-MediumItalic.ttf \
     ZillaSlab-SemiBold.ttf \
