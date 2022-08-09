@@ -305,4 +305,343 @@
     <alias name="op-sans-medium" to="op-sans" weight="500" />
     <alias name="op-sans-bold" to="op-sans" weight="700" />
     <alias name="op-sans-black" to="op-sans" weight="900" />
+            <!-- RedSkul Fonts -->
+        
+    <family customizationType="new-named-family" name="Aller">
+        <font weight="200" style="normal">Aller.ttf</font>
+    </family>
+    <alias name="Aller-medium" to="Aller" weight="500" /> 
+    <alias name="Aller-semi-bold" to="Aller" weight="600" />
+    <alias name="Aller-bold" to="Aller" weight="700" />
+        
+    <family customizationType="new-named-family" name="Arial">
+        <font weight="200" style="normal">Arial.ttf</font>
+    </family>
+    <alias name="Arial-medium" to="Arial" weight="500" /> 
+    <alias name="Arial-semi-bold" to="Arial" weight="600" />
+    <alias name="Arial-bold" to="Arial" weight="700" />     
+    
+    <family customizationType="new-named-family" name="BRCobane">
+        <font weight="200" style="normal">BRCobane.ttf</font>
+    </family>
+    <alias name="BRCobane-medium" to="BRCobane" weight="500" /> 
+    <alias name="BRCobane-semi-bold" to="BRCobane" weight="600" />
+    <alias name="BRCobane-bold" to="BRCobane" weight="700" />     
+        
+    <family customizationType="new-named-family" name="BRFirma">
+        <font weight="200" style="normal">BRFirma.ttf</font>
+    </family>
+    <alias name="BRFirma-medium" to="BRFirma" weight="500" /> 
+    <alias name="BRFirma-semi-bold" to="BRFirma" weight="600" />
+    <alias name="BRFirma-bold" to="BRFirma" weight="700" />         
+    
+    <family customizationType="new-named-family" name="Calibri">
+        <font weight="200" style="normal">Calibri.ttf</font>
+    </family>
+    <alias name="Calibri-medium" to="Calibri" weight="500" />
+    <alias name="Calibri-semi-bold" to="Calibri" weight="600" />
+    <alias name="Calibri-bold" to="Calibri" weight="700" />
+
+    
+    <family customizationType="new-named-family" name="Chirp">
+        <font weight="200" style="normal">Chirp.ttf</font>
+    </family>
+    <alias name="Chirp-medium" to="Chirp" weight="500" />
+    <alias name="Chirp-semi-bold" to="Chirp" weight="600" />
+    <alias name="Chirp-bold" to="Chirp" weight="700" />
+
+    <family customizationType="new-named-family" name="Circe">
+        <font weight="200" style="normal">Circe.ttf</font>
+    </family>
+    <alias name="Circe-medium" to="Circe" weight="500" />
+    <alias name="Circe-semi-bold" to="Circe" weight="600" />
+    <alias name="Circe-bold" to="Circe" weight="700" />
+
+
+    <family customizationType="new-named-family" name="CoconNext">
+        <font weight="200" style="normal">CoconNext.ttf</font>
+    </family>
+    <alias name="CoconNext-medium" to="CoconNext" weight="500" />
+    <alias name="CoconNext-semi-bold" to="CoconNext" weight="600" />
+    <alias name="CoconNext-bold" to="CoconNext" weight="700" />
+
+    <family customizationType="new-named-family" name="CoreSansG">
+        <font weight="200" style="normal">CoreSansG.ttf</font>
+    </family>
+    <alias name="CoreSansG-medium" to="CoreSansG" weight="500" /> 
+    <alias name="CoreSansG-semi-bold" to="CoreSansG" weight="600" />
+    <alias name="CoreSansG-bold" to="CoreSansG" weight="700" />     
+
+    <family customizationType="new-named-family" name="CyberPunk">
+        <font weight="200" style="normal">CyberPunk.ttf</font>
+    </family>
+    <alias name="CyberPunk-medium" to="CyberPunk" weight="500" />
+    <alias name="CyberPunk-semi-bold" to="CyberPunk" weight="600" />
+    <alias name="CyberPunk-bold" to="CyberPunk" weight="700" />
+
+
+    <family customizationType="new-named-family" name="Dyna">
+        <font weight="200" style="normal">Dyna.ttf</font>
+    </family>
+    <alias name="Dyna-medium" to="Dyna" weight="500" />
+    <alias name="Dyna-semi-bold" to="Dyna" weight="600" />
+    <alias name="Dyna-bold" to="Dyna" weight="700" />
+
+
+    <family customizationType="new-named-family" name="Euclid">
+        <font weight="200" style="normal">Euclid.ttf</font>
+    </family>
+    <alias name="Euclid-medium" to="Euclid" weight="500" />
+    <alias name="Euclid-semi-bold" to="Euclid" weight="600" />
+    <alias name="Euclid-bold" to="Euclid" weight="700" />
+    
+    <family customizationType="new-named-family" name="Facundo">
+        <font weight="200" style="normal">Facundo.ttf</font>
+    </family>
+    <alias name="Facundo-medium" to="Facundo" weight="500" />
+    <alias name="Facundo-semi-bold" to="Facundo" weight="600" />
+    <alias name="Facundo-bold" to="Facundo" weight="700" />
+
+    <family customizationType="new-named-family" name="Fluid">
+        <font weight="200" style="normal">Fluid.ttf</font>
+    </family>
+    <alias name="Fluid-medium" to="Fluid" weight="500" />
+    <alias name="Fluid-semi-bold" to="Fluid" weight="600" />
+    <alias name="Fluid-bold" to="Fluid" weight="700" />
+    
+    <family customizationType="new-named-family" name="Futura">
+        <font weight="200" style="normal">Futura.ttf</font>
+    </family>
+    <alias name="Futura-medium" to="Futura" weight="500" />
+    <alias name="Futura-semi-bold" to="Futura" weight="600" />
+    <alias name="Futura-bold" to="Futura" weight="700" />
+    
+    <family customizationType="new-named-family" name="Ginto">
+        <font weight="200" style="normal">Ginto.ttf</font>
+    </family>
+    <alias name="Ginto-medium" to="Ginto" weight="500" />
+    <alias name="Ginto-semi-bold" to="Ginto" weight="600" />
+    <alias name="Ginto-bold" to="Ginto" weight="700" />
+    
+    <family customizationType="new-named-family" name="Gothic">
+        <font weight="200" style="normal">Gothic.ttf</font>
+    </family>
+    <alias name="Gothic-medium" to="Gothic" weight="500" />
+    <alias name="Gothic-semi-bold" to="Gothic" weight="600" />
+    <alias name="Gothic-bold" to="Gothic" weight="700" />
+    
+    <family customizationType="new-named-family" name="HallsAndPartners">
+        <font weight="200" style="normal">HallsAndPartners.ttf</font>
+    </family>
+    <alias name="HallsAndPartners-medium" to="HallsAndPartners" weight="500" />
+    <alias name="HallsAndPartners-semi-bold" to="HallsAndPartners" weight="600" />
+    <alias name="HallsAndPartners-bold" to="HallsAndPartners" weight="700" />
+
+    <family customizationType="new-named-family" name="Helvetica">
+        <font weight="200" style="normal">Helvetica.ttf</font>
+    </family>
+    <alias name="Helvetica-medium" to="Helvetica" weight="500" /> 
+    <alias name="Helvetica-semi-bold" to="Helvetica" weight="600" />
+    <alias name="Helvetica-bold" to="Helvetica" weight="700" />    
+
+    <family customizationType="new-named-family" name="JosefinSans">
+        <font weight="200" style="normal">JosefinSans.ttf</font>
+    </family>
+    <alias name="JosefinSans-medium" to="JosefinSans" weight="500" />
+    <alias name="JosefinSans-semi-bold" to="JosefinSans" weight="600" />
+    <alias name="JosefinSans-bold" to="JosefinSans" weight="700" />
+    
+    <family customizationType="new-named-family" name="Jost">
+        <font weight="200" style="normal">Jost.ttf</font>
+    </family>
+    <alias name="Jost-medium" to="Jost" weight="500" />
+    <alias name="Jost-semi-bold" to="Jost" weight="600" />
+    <alias name="Jost-bold" to="Jost" weight="700" />
+
+
+    <family customizationType="new-named-family" name="Kometa">
+        <font weight="200" style="normal">Kometa.ttf</font>
+    </family>
+    <alias name="Kometa-medium" to="Kometa" weight="500" />
+    <alias name="Kometa-semi-bold" to="Kometa" weight="600" />
+    <alias name="Kometa-bold" to="Kometa" weight="700" />
+
+
+    <family customizationType="new-named-family" name="MadeEvo">
+        <font weight="200" style="normal">MadeEvo.ttf</font>
+    </family>
+    <alias name="MadeEvo-medium" to="MadeEvo" weight="500" />
+    <alias name="MadeEvo-semi-bold" to="MadeEvo" weight="600" />
+    <alias name="MadeEvo-bold" to="MadeEvo" weight="700" />
+
+
+    <family customizationType="new-named-family" name="Madefor">
+        <font weight="200" style="normal">Madefor.ttf</font>
+    </family>
+    <alias name="Madefor-medium" to="Madefor" weight="500" />
+    <alias name="Madefor-semi-bold" to="Madefor" weight="600" />
+    <alias name="Madefor-bold" to="Madefor" weight="700" />
+
+
+    <family customizationType="new-named-family" name="MiSans">
+        <font weight="200" style="normal">MiSans.ttf</font>
+    </family>
+    <alias name="MiSans-medium" to="MiSans" weight="500" />
+    <alias name="MiSans-semi-bold" to="MiSans" weight="600" />
+    <alias name="MiSans-bold" to="MiSans" weight="700" />
+
+    <family customizationType="new-named-family" name="ModerneSans">
+        <font weight="200" style="normal">ModerneSans.ttf</font>
+    </family>
+    <alias name="ModerneSans-medium" to="ModerneSans" weight="500" />
+    <alias name="ModerneSans-semi-bold" to="ModerneSans" weight="600" />
+    <alias name="ModerneSans-bold" to="ModerneSans" weight="700" />
+    
+    <family customizationType="new-named-family" name="Moon">
+        <font weight="200" style="normal">Moon.ttf</font>
+    </family>
+    <alias name="Moon-medium" to="Moon" weight="500" />
+    <alias name="Moon-semi-bold" to="Moon" weight="600" />
+    <alias name="Moon-bold" to="Moon" weight="700" />
+
+    <family customizationType="new-named-family" name="MilanPro">
+        <font weight="200" style="normal">MilanPro.ttf</font>
+    </family>
+    <alias name="MilanPro-medium" to="MilanPro" weight="500" />
+    <alias name="MilanPro-semi-bold" to="MilanPro" weight="600" />
+    <alias name="MilanPro-bold" to="MilanPro" weight="700" />
+
+    
+        <family customizationType="new-named-family" name="Myriad">
+        <font weight="200" style="normal">Myriad.ttf</font>
+    </family>
+    <alias name="Myriad-medium" to="Myriad" weight="500" />
+    <alias name="Myriad-semi-bold" to="Myriad" weight="600" />
+    <alias name="Myriad-bold" to="Myriad" weight="700" />
+
+
+    <family customizationType="new-named-family" name="Nimbus">
+        <font weight="200" style="normal">Nimbus.ttf</font>
+    </family>
+    <alias name="Nimbus-medium" to="Nimbus" weight="500" />
+    <alias name="Nimbus-semi-bold" to="Nimbus" weight="600" />
+    <alias name="Nimbus-bold" to="Nimbus" weight="700" />
+
+    <family customizationType="new-named-family" name="Nothing">
+        <font weight="200" style="normal">Nothing.ttf</font>
+    </family>
+    <alias name="Nothing-medium" to="Nothing" weight="500" />
+    <alias name="Nothing-semi-bold" to="Nothing" weight="600" />
+    <alias name="Nothing-bold" to="Nothing" weight="700" />
+
+    <family customizationType="new-named-family" name="OPSlate">
+        <font weight="200" style="normal">OPSlate.ttf</font>
+    </family>
+    <alias name="OPSlate-medium" to="OPSlate" weight="500" />
+    <alias name="OPSlate-semi-bold" to="OPSlate" weight="600" />
+    <alias name="OPSlate-bold" to="OPSlate" weight="700" />
+    
+    
+    <family customizationType="new-named-family" name="ProximaNova">
+        <font weight="200" style="normal">ProximaNova.ttf</font>
+    </family>
+    <alias name="ProximaNova-medium" to="ProximaNova" weight="500" />
+    <alias name="ProximaNova-semi-bold" to="ProximaNova" weight="600" />
+    <alias name="ProximaNova-bold" to="ProximaNova" weight="700" />
+
+    <family customizationType="new-named-family" name="Qanelas">
+        <font weight="200" style="normal">Qanelas.ttf</font>
+    </family>
+    <alias name="Qanelas-medium" to="Qanelas" weight="500" /> 
+    <alias name="Qanelas-semi-bold" to="Qanelas" weight="600" />
+    <alias name="Qanelas-bold" to="Qanelas" weight="700" />     
+
+    <family customizationType="new-named-family" name="OppoSans">
+        <font weight="200" style="normal">OppoSans.ttf</font>
+    </family>
+    <alias name="OppoSans-medium" to="OppoSans" weight="500" />
+    <alias name="OppoSans-semi-bold" to="OppoSans" weight="600" />
+    <alias name="OppoSans-bold" to="OppoSans" weight="700" />
+
+
+    <family customizationType="new-named-family" name="Quicksand">
+        <font weight="200" style="normal">Quicksand.ttf</font>
+    </family>
+    <alias name="Quicksand-medium" to="Quicksand" weight="500" />
+    <alias name="Quicksand-semi-bold" to="Quicksand" weight="600" />
+    <alias name="Quicksand-bold" to="Quicksand" weight="700" />
+
+    <family customizationType="new-named-family" name="RadioCanada">
+        <font weight="200" style="normal">RadioCanada.ttf</font>
+    </family>
+    <alias name="RadioCanada-medium" to="RadioCanada" weight="500" />
+    <alias name="RadioCanada-semi-bold" to="RadioCanada" weight="600" />
+    <alias name="RadioCanada-bold" to="RadioCanada" weight="700" />
+
+    
+    <family customizationType="new-named-family" name="SanofiSans">
+        <font weight="200" style="normal">SanofiSans.ttf</font>
+    </family>
+    <alias name="SanofiSans-medium" to="SanofiSans" weight="500" />
+    <alias name="SanofiSans-semi-bold" to="SanofiSans" weight="600" />
+    <alias name="SanofiSans-bold" to="SanofiSans" weight="700" />
+
+    <family customizationType="new-named-family" name="SFPro">
+        <font weight="200" style="normal">SFPro.ttf</font>
+    </family>
+    <alias name="SFPro-medium" to="SFPro" weight="500" />
+    <alias name="SFPro-semi-bold" to="SFPro" weight="600" />
+    <alias name="SFPro-bold" to="SFPro" weight="700" />
+
+
+    <family customizationType="new-named-family" name="Segoe">
+        <font weight="200" style="normal">Segoe.ttf</font>
+    </family>
+    <alias name="Segoe-medium" to="Segoe" weight="500" />
+    <alias name="Segoe-semi-bold" to="Segoe" weight="600" />
+    <alias name="Segoe-bold" to="Segoe" weight="700" />
+    
+    <family customizationType="new-named-family" name="SequelSans">
+        <font weight="200" style="normal">SequelSans.ttf</font>
+    </family>
+    <alias name="SequelSans-medium" to="SequelSans" weight="500" />
+    <alias name="SequelSans-semi-bold" to="SequelSans" weight="600" />
+    <alias name="SequelSans-bold" to="SequelSans" weight="700" />
+
+    
+    <family customizationType="new-named-family" name="SpaceGrotesk">
+        <font weight="200" style="normal">SpaceGrotesk.ttf</font>
+    </family>
+    <alias name="SpaceGrotesk-medium" to="SpaceGrotesk" weight="500" />
+    <alias name="SpaceGrotesk-semi-bold" to="SpaceGrotesk" weight="600" />
+    <alias name="SpaceGrotesk-bold" to="SpaceGrotesk" weight="700" />
+ 
+
+    <family customizationType="new-named-family" name="Trebuchet">
+        <font weight="200" style="normal">Trebuchet.ttf</font>
+    </family>
+    <alias name="Trebuchet-medium" to="Trebuchet" weight="500" /> 
+    <alias name="Trebuchet-semi-bold" to="Trebuchet" weight="600" />
+    <alias name="Trebuchet-bold" to="Trebuchet" weight="700" />
+
+    <family customizationType="new-named-family" name="TsanjerJinkai">
+        <font weight="200" style="normal">TsanjerJinkai.ttf</font>
+    </family>
+    <alias name="TsanjerJinkai-medium" to="TsanjerJinkai" weight="500" />
+    <alias name="TsanjerJinkai-semi-bold" to="TsanjerJinkai" weight="600" />
+    <alias name="TsanjerJinkai-bold" to="TsanjerJinkai" weight="700" />
+ 
+    <family customizationType="new-named-family" name="UncutSans">
+        <font weight="200" style="normal">UncutSans.ttf</font>
+    </family>
+    <alias name="UncutSans-medium" to="UncutSans" weight="500" />
+    <alias name="UncutSans-semi-bold" to="UncutSans" weight="600" />
+    <alias name="UncutSans-bold" to="UncutSans" weight="700" />
+   
+    <family customizationType="new-named-family" name="WorkSans">
+        <font weight="200" style="normal">WorkSans.ttf</font>
+    </family>
+    <alias name="WorkSans-medium" to="WorkSans" weight="500" />
+    <alias name="WorkSans-semi-bold" to="WorkSans" weight="600" />
+    <alias name="WorkSans-bold" to="WorkSans" weight="700" />    
 </fonts-modification>
