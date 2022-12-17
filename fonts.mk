@@ -27,6 +27,7 @@ PRODUCT_PACKAGES += \
     FontNothingOverlay \
     FontOppoSansOverlay \
     FontSFProOverlay \
+    FontStoropiaOverlay \
     FontCustomOverlay
 
 PRODUCT_PACKAGES += \
@@ -75,6 +76,7 @@ PRODUCT_PACKAGES += \
     Rubik-Bold.ttf \
     Rubik-BoldItalic.ttf \
     SFPro.ttf \
+    Storopia.ttf \
     ZillaSlab-Medium.ttf \
     ZillaSlab-MediumItalic.ttf \
     ZillaSlab-SemiBold.ttf \

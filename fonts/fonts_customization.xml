@@ -460,5 +460,12 @@
     </family>
     <alias name="SFPro-medium" to="SFPro" weight="500" />
     <alias name="SFPro-semi-bold" to="SFPro" weight="600" />
-    <alias name="SFPro-bold" to="SFPro" weight="700" />   
+    <alias name="SFPro-bold" to="SFPro" weight="700" />
+
+    <family customizationType="new-named-family" name="Storopia">
+        <font weight="200" style="normal">Storopia.ttf</font>
+    </family>
+    <alias name="Storopia-medium" to="Storopia" weight="500" />
+    <alias name="Storopia-semi-bold" to="Storopia" weight="600" />
+    <alias name="Storopia-bold" to="Storopia" weight="700" />    
 </fonts-modification>
